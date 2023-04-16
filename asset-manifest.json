@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/manggon-react-app/static/css/main.ccf1a240.css",
+    "main.js": "/manggon-react-app/static/js/main.4d8ff2e4.js",
+    "static/media/bez_tła.png": "/manggon-react-app/static/media/bez_tła.fcb3ef8955ff62ea0a86.png",
+    "static/media/Biuro.png": "/manggon-react-app/static/media/Biuro.821547013ae68012f831.png",
+    "static/media/CardImage2.jpg": "/manggon-react-app/static/media/CardImage2.5f7f079152f9774178fb.jpg",
+    "static/media/CardImage.jpg": "/manggon-react-app/static/media/CardImage.48c7bd26c0a4deb269d7.jpg",
+    "static/media/CardImage3.jpg": "/manggon-react-app/static/media/CardImage3.b69884b0559af10e4842.jpg",
+    "static/media/Willa2.jpg": "/manggon-react-app/static/media/Willa2.1726811e9bb1b63c1264.jpg",
+    "static/media/Willa1.jpg": "/manggon-react-app/static/media/Willa1.288fa47751aeb2cd84fa.jpg",
+    "static/media/Willa3.jpg": "/manggon-react-app/static/media/Willa3.171a8051f2df5537eccb.jpg",
+    "index.html": "/manggon-react-app/index.html",
+    "main.ccf1a240.css.map": "/manggon-react-app/static/css/main.ccf1a240.css.map",
+    "main.4d8ff2e4.js.map": "/manggon-react-app/static/js/main.4d8ff2e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf1a240.css",
+    "static/js/main.4d8ff2e4.js"
+  ]
+}
