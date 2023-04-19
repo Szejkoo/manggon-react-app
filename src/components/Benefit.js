@@ -6,8 +6,8 @@ import {faShieldHeart} from '@fortawesome/free-solid-svg-icons'
 import {faHouse} from '@fortawesome/free-solid-svg-icons'
 import {faLayerGroup} from '@fortawesome/free-solid-svg-icons'
 
-
 function Benefit() {
+ 
   const Box = styled.div`
   background-color:#fff;
   display:flex;
@@ -49,7 +49,6 @@ function Benefit() {
   border-radius:20px;
   margin-right:50px;
   `
-
 
   return (
     <Box>

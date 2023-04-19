@@ -79,7 +79,6 @@ function Faq() {
                 <PTwo>Fell free to ask us anything about your house program, discuss with us, and we will acompany you with your dreamy house in future.</PTwo>
             </Text>
             <InfoBox>
-              <h2></h2>
             <div>
               <div onClick={toggleExpansion}>
                 <Question>How to Get Started With Us?</Question>
